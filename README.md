@@ -88,6 +88,28 @@ This tutorial outlines the post-installation of the open-source help desk ticket
 
 ![osticket Step 3c](https://github.com/user-attachments/assets/7ae60fe5-0452-436b-bd91-d74d226541e3)
 
+<h2>Section 4 - Teams</h2>
+
+- Next we will create a Team called "Online Banking"
+- Admin Panel > Teams > Add New Team
+
+![osticket Step 4a](https://github.com/user-attachments/assets/bfb55d91-fbba-4eef-b749-5bfa34713a94)
+
+- Name the team "Online Banking" and select "Create Team"
+
+![osticket Step 4b](https://github.com/user-attachments/assets/c1d30a29-193c-4e34-999b-000dbe910e43)
+
+- Note: you will more than likely have to navigate back to Agents > Teams to see that the team is created. (At least I did)
+
+![osticket Step 4c](https://github.com/user-attachments/assets/a49aac28-95aa-4c79-9da6-4d8a73d821bb)
+
+- Before moving on to the next session, let's check to make sure a setting is turned off
+- Go to "Settings" > "User" > and make sure the box that says "Require registration and login to create tickets" is unchecked
+
+![osticket Step 4d](https://github.com/user-attachments/assets/449ace6a-1bf3-47ae-bb6e-e083f04bb047)
+
+<h2>Section 5 - Agents</h2>
+
 
 
 
