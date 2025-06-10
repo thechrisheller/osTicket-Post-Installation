@@ -131,6 +131,9 @@ This tutorial outlines the post-installation of the open-source help desk ticket
 - For the admin user you are creating, which in this case for me is Jane Admin, go to "Access" and select the department "SysAdmins" and the Role "Supreme Admin" for this agent
 
 ![osticket Step 5d](https://github.com/user-attachments/assets/3fcfab9a-9a93-41a6-8092-d1fa6c8528e6)
+
+- In the next project, if you are unable to see submitted Tickets, add Extended Access Support | Supreme Admin
+  
 ![Update pic](https://github.com/user-attachments/assets/cf136554-2c14-404f-80e7-7adf38427611)
 
 - Let's go ahead and assign Jane Admin to the team "Online Banking"
