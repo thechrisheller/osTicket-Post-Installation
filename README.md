@@ -6,6 +6,10 @@
 <h1>osTicket-Post-Installation</h1>
 This tutorial outlines the post-installation of the open-source help desk ticketing system osTicket.<br />
 
+<h2>Prerequisites</h2>
+
+- [Creating a VM in the Cloud](https://github.com/thechrisheller/Creating-VM-Azure) 
+- [osTicket: Installation](https://github.com/thechrisheller/osTicket-Installation)
 
 <h2>Environments and Technologies Used</h2>
 
